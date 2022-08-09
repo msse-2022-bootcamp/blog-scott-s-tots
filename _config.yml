@@ -18,7 +18,7 @@ email: msse@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A website for the MSSE Bootcamp
 repository: 
-baseurl: "blog-scott-s-to/" # the subpath of your site, e.g. /blog
+baseurl: blog-scott-s-tots/ # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
