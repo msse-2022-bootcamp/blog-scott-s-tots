@@ -15,7 +15,7 @@ If we have a system of 10 particles, then there will be 45 pairwise particle-par
 |100|4950|
 |1000|499500|
 
-Given a system with a density of 1, then in the table we can see the number of particles in spheres with varying radii.
+Given a system with a density of 1, then in the table we can see the number of particles in spheres with varying radii. Since volume of sphere proportional by the cube of the radius, we can see the number of particles is also proportional to the sphere's radius.
 
 | radius (unit) | # particles in sphere |
 |---|---|
